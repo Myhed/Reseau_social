@@ -1,2 +1,10 @@
-# Reseau_social
-Simulation d'un réseaul social comme facebook ou twitter
+#Réseau Social
+
+##Architecture des dossiers
+
+* css
+* filters
+* img
+* inc
+* js
+* views
